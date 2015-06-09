@@ -1,0 +1,17 @@
+.bespoke-slide {
+  background: #6495ed;
+  color: #fff;
+}
+.bespoke-slide h3 {
+  color: #333;
+}
+.bespoke-slide h3 a,
+.bespoke-slide li a {
+  color: #dc143c;
+}
+.bespoke-slide li a:hover {
+  text-decoration: underline;
+}
+h2 {
+  text-transform: Capitalize;
+}
