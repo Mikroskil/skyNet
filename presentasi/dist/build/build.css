@@ -1,9 +1,42 @@
+body {
+  background: url("../Img/picjumbo.com_IMG_5992.jpg") no-repeat;
+  background-size: cover;
+}
+article {
+  background: rgba(0,0,0,0.5);
+}
+@font-face {
+  src: url("../font/Ubuntu/Ubuntu-Light.ttf");
+  font-family: ubuntu;
+}
 .bespoke-slide {
-  background: #6495ed;
+  background: transparent;
   color: #fff;
+  width: 100%;
+  left: 0;
+  margin-left: 0;
+}
+#fth {
+  background: rgba(0,0,0,0.4);
 }
 .bespoke-slide h3 {
-  color: #333;
+  color: #6495ed;
+}
+#des {
+  color: #efefef;
+}
+#num h2 {
+  font-size: 62px;
+  color: #dc143c;
+}
+p font-family ubuntu {
+  text-align: center;
+  margin: 0;
+}
+#item {
+  width: 360px;
+  font-size: 24px;
+  line-height: 32px;
 }
 .bespoke-slide h3 a,
 .bespoke-slide li a {
@@ -14,4 +47,10 @@
 }
 h2 {
   text-transform: Capitalize;
+}
+#float {
+  float: left;
+}
+img {
+  width: 300px;
 }
