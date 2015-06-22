@@ -3,7 +3,7 @@ html
   head
     meta(charset='utf-8')
     meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
-    title Sillica Gel | by skyNet
+    title Silica Gel by | skyNet
 
     link(rel='stylesheet', type='text/css', href='build/build.css')
 
@@ -11,73 +11,148 @@ html
 
     article
 
+      section
 <<<<<<< HEAD
-      section
-        h2 Manfaat yang jarang diketahui pada sillica gel test..
+        h1 Sillica Gel
 
       section
-        h2 Manfaat yang jarang diketahui pada sillica gel test2..
+        h2 Manfaat yang jarang diketahui pada sillica gel 
+        p Silica gel umumnya berbentuk bubuk atau butiran seperti manik-manik yang sering digunakan untuk menyerap kelembaban pada produk makanan atau barang-barang 	   		lain dimana kelembaban berlebih akan merusak kualitas produk
 =======
-	section
-        h2 Pengertian Silica Gel.
-        h3 Silica Gel merupakan produk penyerap kelembapan udara yang sangat cocok untuk diaplikasikan untuk menjaga kualitas produk dalam kemasan tertutup. Silica Gel bekerja efektif tanpa mengubah produk bentuk zatnya, silica gel apabila disentuh tetap kering walaupun dia sudah bereaksi menyerap kelembapan udara.
->>>>>>> 5f3ac3ab51e01592243c1dd55dff7fac2a7e288e
+        h2 Silica Sel dan fungsi uniknya
+        h3 Disusun oleh <a href="#">skyNet</a>
 
-	section
-        h2 Terdapat dua jenis Silica Gel dibagi dari cara pembuatannya :
-        
-	ul
-		li h2 Silica Gel Sintetis.
-		h3 Silica Gel Sintetis, dibuat dengan melalui proses dan pengolahan menggunakan mesin. Yang mana terdapat perubahan bentuk dan jenis dari bahan menjadi barang jadi
-		
-		li h2 Silica Gel Natural.
-		h3 Silica Gel Natural Merupakan silica gel berbahan alami/natural yaitu batu zeolite hasil tambang yang diolah melalui proses aktivasi dan screening.
-	ul
+      section
+        h2#title Terdapat dua jenis Silica Gel dibagi dari cara pembuatannya
+        ul
+          li
+          <br>
+          li 
+            h3 Silica Gel Sintetis.
+            p#des Silica Gel Sintetis, dibuat dengan melalui proses dan pengolahan menggunakan mesin yang mana terdapat perubahan bentuk dan jenis dari bahan menjadi barang jadi
+          <br>
+          li
+            h3 Silica Gel Natural.
+            p#des Silica Gel Natural Merupakan silica gel berbahan alami/natural yaitu batu zeolite hasil tambang yang diolah melalui proses aktivasi dan screening.
+>>>>>>> e99ea310475ea01dabadf95a4a4190ea6601fa70
 
-	section
-        h2 Manfaat Utama Silica Gel:
-        
-	ul
-		li h2 Silica gel mencegah terbentuknya kelembapan yang berlebihan sebelum terjadi.
-		li h2 Produk anti lembap ini menyerap lembap tanpa merubah kondisi zatnya.
-		li h2 Silica Gel selain berfungsi untuk absorbsi kelembaban udara, fungi-jamuran dan bau-bauan serta ion-ion lainnya dan untuk menjaga kualitas produk terutama untuk barang-barang yang dieksport.
-		
-	ul
+      section
+        h2 Manfaat Utama Silica Gel
+        ul
+          li
+          li 
+            p#des Silica gel mencegah terbentuknya kelembapan yang berlebihan sebelum terjadi.
+          li 
+            p#des Produk anti lembap ini menyerap lembap tanpa merubah kondisi zatnya.
+          li 
+            p#des Silica Gel selain berfungsi untuk absorbsi kelembaban udara, fungi-jamuran dan bau-bauan serta ion-ion lainnya dan untuk menjaga kualitas produk terutama untuk barang-barang yang dieksport.
 
       section
         h2 Manfaat yang jarang diketahui pada sillica gel
 
       section
-        h2 Agar Bibit tanaman atau biji-bijian yang disimpan tidak berkecambah, selipkan saja silica gel didalamnya.
+        ul
+          #float
+            li#num
+              h2 1
+            li
+              p#item Agar Bibit tanaman atau biji-bijian yang disimpan tidak berkecambah, selipkan saja silica gel didalamnya.
+          #float
+            <img src="Img/1.jpg"/>
+          
+
+      section#fth
+        ul
+          #float
+            li#num
+              h2 2
+            li
+              p#item Tidak perlu lagi khawatir alat-alat otomotif, listrik dan pertukangan menjadi cepat karatan. Sertakan saja silica gel dalam kotak penyimpanan.
+          #float
+            <img src="Img/2.jpg"/>
         
 
       section
-        h2 Tidak perlu lagi khawatir alat-alat otomotif, listrik dan pertukangan menjadi cepat karatan. Sertakan saja silica gel dalam kotak penyimpanan.
-        
-
-      section
-        h2 Dengan menyelipkan silica gel yang harganya murah, koleksi buku tua dan langka bisa terhindar dari kerusakan dan jamur.
-        	
-      section
-        h2 Pengawetan Bugan dengan menggunakan silica gel.
+        ul
+          #float
+            li#num
+              h2 3
+            li
+              p#item Dengan menyelipkan silica gel yang harganya murah, koleksi buku tua dan langka bisa terhindar dari kerusakan dan jamur.
+          #float
+          <img src="Img/3.jpg"/>
+          
+      section#fth
+        ul
+          #float
+            li#num
+              h2 4
+            li
+              p#item Pengawetan Bugan dengan menggunakan silica gel.
+          #float
+            <img src="Img/0001.jpg"/>
        
-	section
-        h2 Menghilangkan bercak jamur yang ada pada handuk.
-		
-	section
-        h2 Agar stok makanan anjing dan kucing tetap lezat sampai kapan saja, jangan lupa sisipi silica gel di kantongnya.
-		
-	section
-        h2  Bau dan bekas keringat pada sepatu dan peralatan olahraga dapat diatasi juga dengan menggunakan silica gel.
-	
-	section
-        h2  Cara mudah agar album foto kenangan tetap terjaga sampai tua adalah menyelipkan silica gel di dalamnya.
-	
-	section
-        h2  Kondisi lembab pada lensa kamera sering kali mengganggu hasil dari pengguanaan kamera. Agar hal ini tak terjadi, antisipasi dengan silica gel mini.
-	
-	section
-        h2  Merawat alat makeup itu tidak perlu mahal, gunakan saja silica gel sebagai antisipasi agar tidak jamuran.
+      section
+        ul
+          #float
+            li#num
+              h2 5
+            li
+             p#item Menghilangkan bercak jamur yang ada pada handuk.
+          #float
+            <img src="Img/5.jpg"/>
+      
+      section#fth
+        ul
+          #float
+            li#num
+              h2 6
+            li
+               p#item Agar stok makanan anjing dan kucing tetap lezat sampai kapan saja, jangan lupa sisipi silica gel di kantongnya.
+          #float
+            <img src="Img/6.jpg"/>
+      
+      section
+        ul
+          #float
+            li#num
+              h2 7
+            li
+              p#item  Bau dan bekas keringat pada sepatu dan peralatan olahraga dapat diatasi juga dengan menggunakan silica gel.
+          #float
+            <img src="Img/7.jpg"/>
 
-	section
-        h2  Selesai.
+      section#fth
+        ul
+          #float
+            li#num
+              h2 8
+            li
+              p#item  Cara mudah agar album foto kenangan tetap terjaga sampai tua adalah menyelipkan silica gel di dalamnya.
+          #float
+            <img src="Img/8.jpg"/>
+      
+      section
+        ul
+          #float
+            li#num
+              h2 9
+            li
+              p#item  Kondisi lembab pada lensa kamera sering kali mengganggu hasil dari pengguanaan kamera. Agar hal ini tak terjadi, antisipasi dengan silica gel mini.
+          #float
+            <img src="Img/9.jpg"/>
+
+      section#fth
+        ul
+          #float
+            li#num
+              h2 10
+            li
+              p#item  Merawat alat makeup itu tidak perlu mahal, gunakan saja silica gel sebagai antisipasi agar tidak jamuran.
+          #float
+            <img src="Img/10.png"/>
+
+      section
+            h2  FIN.
+
+    script(src='build/build.js') //baris ini jangan dihapus
